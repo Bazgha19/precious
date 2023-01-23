@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571662058318",
+    "project_id": "precious-94a80",
+    "storage_bucket": "precious-94a80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571662058318:android:b762f29ec3ba16ffd9d41f",
+        "android_client_info": {
+          "package_name": "com.example.precious"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571662058318-6cvb5fumjvj90hqd3deiidq3lrhg0v0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowbZDi5D6H9GnAZr0dXC3w3zrO46Lqv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571662058318-6cvb5fumjvj90hqd3deiidq3lrhg0v0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
